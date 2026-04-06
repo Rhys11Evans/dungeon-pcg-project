@@ -11,5 +11,6 @@ This project is a 2D dungeon crawler built in Python using Pygame. It focuses on
 
 ## How to Run
 
-pip install pygame  
+cd DungeonGame
+pip install pygame
 python -m src.main
